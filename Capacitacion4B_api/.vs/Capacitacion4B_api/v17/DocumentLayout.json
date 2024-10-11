@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910E9F70-5557-4D8A-9E77-74CABFD0C299}|Capacitacion4B_api\\Capacitacion4B_api.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E9F70-5557-4D8A-9E77-74CABFD0C299}|Capacitacion4B_api\\Capacitacion4B_api.csproj|solutionrelative:capacitacion4b_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E62849-6E24-48D2-A132-579FAAB3CC12}|Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api.dto\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E62849-6E24-48D2-A132-579FAAB3CC12}|Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj|solutionrelative:capacitacion4b_api.dto\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E62849-6E24-48D2-A132-579FAAB3CC12}|Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api.dto\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E62849-6E24-48D2-A132-579FAAB3CC12}|Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj|solutionrelative:capacitacion4b_api.dto\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E62849-6E24-48D2-A132-579FAAB3CC12}|Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api.dto\\capacitacion4b_api.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5E62849-6E24-48D2-A132-579FAAB3CC12}|Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj|solutionrelative:capacitacion4b_api.dto\\capacitacion4b_api.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB9F54D-1228-472D-9341-31A84B36A7DA}|Capacitacion4B_api.Models\\Capacitacion4B_api.Models.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api.models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB9F54D-1228-472D-9341-31A84B36A7DA}|Capacitacion4B_api.Models\\Capacitacion4B_api.Models.csproj|solutionrelative:capacitacion4b_api.models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C78A40-35D5-4C4E-81F3-34BC0310D411}|Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api.data\\postgresqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C78A40-35D5-4C4E-81F3-34BC0310D411}|Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj|solutionrelative:capacitacion4b_api.data\\postgresqlconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C78A40-35D5-4C4E-81F3-34BC0310D411}|Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api.data\\capacitacion4b_api.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4C78A40-35D5-4C4E-81F3-34BC0310D411}|Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj|solutionrelative:capacitacion4b_api.data\\capacitacion4b_api.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E9F70-5557-4D8A-9E77-74CABFD0C299}|Capacitacion4B_api\\Capacitacion4B_api.csproj|c:\\users\\juanp\\source\\repos\\capacitacion4b_api\\capacitacion4b_api\\capacitacion4b_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{910E9F70-5557-4D8A-9E77-74CABFD0C299}|Capacitacion4B_api\\Capacitacion4B_api.csproj|solutionrelative:capacitacion4b_api\\capacitacion4b_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api\\Program.cs",
+              "RelativeDocumentMoniker": "Capacitacion4B_api\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api\\Program.cs",
+              "RelativeToolTip": "Capacitacion4B_api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:47:07.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.DTO\\User\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "Capacitacion4B_api.DTO\\User\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.DTO\\User\\UpdateUserDTO.cs",
+              "RelativeToolTip": "Capacitacion4B_api.DTO\\User\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:44:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.DTO\\User\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "Capacitacion4B_api.DTO\\User\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.DTO\\User\\CreateUserDTO.cs",
+              "RelativeToolTip": "Capacitacion4B_api.DTO\\User\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:41:59.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Capacitacion4B_api.DTOs.csproj",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj",
+              "RelativeDocumentMoniker": "Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj",
+              "RelativeToolTip": "Capacitacion4B_api.DTO\\Capacitacion4B_api.DTOs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T21:40:35.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Capacitacion4B_api.Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Models\\UserModel.cs",
+              "RelativeToolTip": "Capacitacion4B_api.Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:36:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostgreSqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Data\\PostgreSqlConnection.cs",
+              "RelativeDocumentMoniker": "Capacitacion4B_api.Data\\PostgreSqlConnection.cs",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Data\\PostgreSqlConnection.cs",
+              "RelativeToolTip": "Capacitacion4B_api.Data\\PostgreSqlConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:34:23.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Capacitacion4B_api.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj",
+              "RelativeDocumentMoniker": "Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj",
+              "RelativeToolTip": "Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T21:20:31.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Capacitacion4B_api.csproj",
+              "DocumentMoniker": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api\\Capacitacion4B_api.csproj",
+              "RelativeDocumentMoniker": "Capacitacion4B_api\\Capacitacion4B_api.csproj",
+              "ToolTip": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api\\Capacitacion4B_api.csproj",
+              "RelativeToolTip": "Capacitacion4B_api\\Capacitacion4B_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T21:18:51.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

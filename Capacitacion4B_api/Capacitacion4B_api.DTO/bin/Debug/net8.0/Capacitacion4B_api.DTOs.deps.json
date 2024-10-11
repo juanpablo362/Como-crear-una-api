@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Capacitacion4B_api.DTOs/1.0.0": {
+        "runtime": {
+          "Capacitacion4B_api.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capacitacion4B_api.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

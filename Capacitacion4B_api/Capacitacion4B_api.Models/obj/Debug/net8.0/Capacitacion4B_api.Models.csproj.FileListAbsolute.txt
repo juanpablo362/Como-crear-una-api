@@ -1,0 +1,11 @@
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\bin\Debug\net8.0\Capacitacion4B_api.Models.deps.json
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\bin\Debug\net8.0\Capacitacion4B_api.Models.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\bin\Debug\net8.0\Capacitacion4B_api.Models.pdb
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\Capacitacion4B_api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\Capacitacion4B_api.Models.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\Capacitacion4B_api.Models.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\Capacitacion4B_api.Models.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\Capacitacion4B_api.Models.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\refint\Capacitacion4B_api.Models.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\Capacitacion4B_api.Models.pdb
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Models\obj\Debug\net8.0\ref\Capacitacion4B_api.Models.dll

@@ -1,0 +1,17 @@
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.Data.deps.json
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.Data.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.Data.pdb
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.DTOs.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.Models.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.DTOs.pdb
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\bin\Debug\net8.0\Capacitacion4B_api.Models.pdb
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacita.E4E595CB.Up2Date
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\refint\Capacitacion4B_api.Data.dll
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\Capacitacion4B_api.Data.pdb
+C:\Users\juanp\source\repos\Capacitacion4B_api\Capacitacion4B_api.Data\obj\Debug\net8.0\ref\Capacitacion4B_api.Data.dll

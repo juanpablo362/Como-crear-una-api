@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Awl+rc6Ub8E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanp\\source\\repos\\Capacitacion4B_api\\Capacitacion4B_api.Data\\Capacitacion4B_api.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanp\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

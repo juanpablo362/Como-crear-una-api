@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Capacitacion4B_api.props" />
+</Project>
